@@ -1,0 +1,12 @@
+{"time":"2026-01-28T14:11:06.510094192Z","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2026-01-28T14:11:06.77452031Z","level":"INFO","msg":"stream: created new stream","id":"gka5ula1"}
+{"time":"2026-01-28T14:11:06.774588843Z","level":"INFO","msg":"handler: started","stream_id":"gka5ula1"}
+{"time":"2026-01-28T14:11:06.774751208Z","level":"INFO","msg":"stream: started","id":"gka5ula1"}
+{"time":"2026-01-28T14:11:06.774788344Z","level":"INFO","msg":"writer: started","stream_id":"gka5ula1"}
+{"time":"2026-01-28T14:11:06.774804018Z","level":"INFO","msg":"sender: started","stream_id":"gka5ula1"}
+{"time":"2026-01-28T14:16:21.769597195Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-28T14:16:22.248518731Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-01-28T14:16:22.251254582Z","level":"INFO","msg":"stream: closing","id":"gka5ula1"}
+{"time":"2026-01-28T14:16:22.251267852Z","level":"INFO","msg":"handler: closed","stream_id":"gka5ula1"}
+{"time":"2026-01-28T14:16:22.25133923Z","level":"INFO","msg":"sender: closed","stream_id":"gka5ula1"}
+{"time":"2026-01-28T14:16:22.251351488Z","level":"INFO","msg":"stream: closed","id":"gka5ula1"}

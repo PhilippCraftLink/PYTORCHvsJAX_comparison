@@ -1,0 +1,6 @@
+TensorFlow and JAX classes are deprecated and will be removed in Transformers v5. We recommend migrating to PyTorch classes or pinning your version of Transformers.
+Starting training...
+                                                      
+
+[Info] Step 0 (Compilation) Time: 18.1016s
+Training finished in 590.57 seconds.

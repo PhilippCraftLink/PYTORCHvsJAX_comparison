@@ -1,0 +1,100 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            cwqkq0j846ltq0vsssxe32s9j65bq8jn:
+                codePath: jax_test/ResNet50_CIFAR_JAX2.py
+                codePathLocal: ResNet50_CIFAR_JAX2.py
+                cpu_count: 156
+                cpu_count_logical: 156
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "1531335979008"
+                        used: "648403980288"
+                email: spall.philipp@web.de
+                executable: /home/phsp/uv-env/bin/python
+                git:
+                    remote: https://github.com/PhilippCraftLink/thesis.git
+                gpu: NVIDIA GeForce RTX 4090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 16384
+                      memoryTotal: "25757220864"
+                      name: NVIDIA GeForce RTX 4090
+                      uuid: GPU-392c479a-c4e0-e633-c657-f8bd0a4ff755
+                host: vm-compute
+                memory:
+                    total: "540764692480"
+                os: Linux-6.8.0-90-generic-x86_64-with-glibc2.39
+                program: /home/phsp/thesis/jax_test/ResNet50_CIFAR_JAX2.py
+                python: CPython 3.12.3
+                root: /home/phsp/thesis/jax_test
+                slurm:
+                    cluster_name: (null)
+                    conf: /etc/slurm/slurm.conf
+                    cpus_on_node: "8"
+                    cpus_per_task: "8"
+                    gpus_on_node: "1"
+                    gtids: "0"
+                    job_account: default
+                    job_cpus_per_node: "8"
+                    job_end_time: "1769610813"
+                    job_gid: "1016"
+                    job_gpus: "2"
+                    job_id: "54121"
+                    job_name: JAX_ResNet_CiFAR
+                    job_nodelist: vm-compute
+                    job_num_nodes: "1"
+                    job_partition: main
+                    job_qos: normal
+                    job_start_time: "1769607213"
+                    job_uid: "1016"
+                    job_user: phsp
+                    jobid: "54121"
+                    localid: "0"
+                    mem_per_node: "32768"
+                    nnodes: "1"
+                    nodeid: "0"
+                    nodelist: vm-compute
+                    prio_process: "0"
+                    procid: "0"
+                    submit_dir: /home/phsp/thesis
+                    submit_host: vm-compute
+                    task_pid: "1737704"
+                    tasks_per_node: "1"
+                    topology_addr: vm-compute
+                    topology_addr_pattern: node
+                    tres_per_task: cpu:8
+                startedAt: "2026-01-28T13:33:37.135005Z"
+                writerId: cwqkq0j846ltq0vsssxe32s9j65bq8jn
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 2
+                - 3
+                - 12
+                - 45
+                - 49
+            "2":
+                - 2
+                - 3
+                - 12
+                - 45
+                - 49
+            "3":
+                - 2
+                - 16
+                - 61
+            "4": 3.12.3
+            "5": 0.23.0
+            "12": 0.23.0
+            "13": linux-x86_64
+batch_size:
+    value: 128
+epochs:
+    value: 20
+lr:
+    value: 0.001

@@ -1,0 +1,112 @@
+_wandb:
+    value:
+        cli_version: 0.23.0
+        e:
+            mgkrggzdrdk67ip1ssqqucsrrm37df2x:
+                codePath: jax_test/VIT_tests/Imagenette_VIT_JAX_final.py
+                codePathLocal: Imagenette_VIT_JAX_final.py
+                cpu_count: 156
+                cpu_count_logical: 156
+                cudaVersion: "13.0"
+                disk:
+                    /:
+                        total: "1531335979008"
+                        used: "648413360128"
+                email: spall.philipp@web.de
+                executable: /home/phsp/uv-env/bin/python
+                git:
+                    remote: https://github.com/PhilippCraftLink/thesis.git
+                gpu: NVIDIA GeForce RTX 4090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 16384
+                      memoryTotal: "25757220864"
+                      name: NVIDIA GeForce RTX 4090
+                      uuid: GPU-a2bdae56-5a8e-e08a-e850-8e9d2d31d53b
+                host: vm-compute
+                memory:
+                    total: "540764692480"
+                os: Linux-6.8.0-90-generic-x86_64-with-glibc2.39
+                program: /home/phsp/thesis/jax_test/VIT_tests/Imagenette_VIT_JAX_final.py
+                python: CPython 3.12.3
+                root: /home/phsp/thesis/jax_test/VIT_tests
+                slurm:
+                    cluster_name: (null)
+                    conf: /etc/slurm/slurm.conf
+                    cpus_on_node: "8"
+                    cpus_per_task: "8"
+                    gpus_on_node: "1"
+                    gtids: "0"
+                    job_account: default
+                    job_cpus_per_node: "8"
+                    job_end_time: "1769613060"
+                    job_gid: "1016"
+                    job_gpus: "3"
+                    job_id: "56035"
+                    job_name: JAX_VIT_Imagenette_FINAL
+                    job_nodelist: vm-compute
+                    job_num_nodes: "1"
+                    job_partition: main
+                    job_qos: normal
+                    job_start_time: "1769609460"
+                    job_uid: "1016"
+                    job_user: phsp
+                    jobid: "56035"
+                    localid: "0"
+                    mem_per_node: "32768"
+                    nnodes: "1"
+                    nodeid: "0"
+                    nodelist: vm-compute
+                    prio_process: "0"
+                    procid: "0"
+                    submit_dir: /home/phsp/thesis
+                    submit_host: vm-compute
+                    task_pid: "1761687"
+                    tasks_per_node: "1"
+                    topology_addr: vm-compute
+                    topology_addr_pattern: node
+                    tres_per_task: cpu:8
+                startedAt: "2026-01-28T14:11:06.261400Z"
+                writerId: mgkrggzdrdk67ip1ssqqucsrrm37df2x
+        m: []
+        python_version: 3.12.3
+        t:
+            "1":
+                - 1
+                - 2
+                - 3
+                - 11
+                - 12
+                - 45
+                - 49
+            "2":
+                - 1
+                - 2
+                - 3
+                - 11
+                - 12
+                - 45
+                - 49
+            "3":
+                - 2
+                - 13
+                - 15
+                - 16
+            "4": 3.12.3
+            "5": 0.23.0
+            "6": 4.57.3
+            "12": 0.23.0
+            "13": linux-x86_64
+batch_size:
+    value: 128
+epochs:
+    value: 20
+log_freq:
+    value: 5
+lr:
+    value: 0.0003
+project_name:
+    value: vit-benchmark-comparison
+seed:
+    value: 42

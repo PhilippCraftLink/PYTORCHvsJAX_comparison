@@ -1,0 +1,12 @@
+{"time":"2026-01-28T13:33:37.385344584Z","level":"INFO","msg":"stream: starting","core version":"0.23.0"}
+{"time":"2026-01-28T13:33:37.646816049Z","level":"INFO","msg":"stream: created new stream","id":"duminnxr"}
+{"time":"2026-01-28T13:33:37.646889499Z","level":"INFO","msg":"handler: started","stream_id":"duminnxr"}
+{"time":"2026-01-28T13:33:37.646971814Z","level":"INFO","msg":"stream: started","id":"duminnxr"}
+{"time":"2026-01-28T13:33:37.646972895Z","level":"INFO","msg":"writer: started","stream_id":"duminnxr"}
+{"time":"2026-01-28T13:33:37.647000096Z","level":"INFO","msg":"sender: started","stream_id":"duminnxr"}
+{"time":"2026-01-28T13:40:40.695658475Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2026-01-28T13:40:40.975558534Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2026-01-28T13:40:40.979125926Z","level":"INFO","msg":"stream: closing","id":"duminnxr"}
+{"time":"2026-01-28T13:40:40.97914216Z","level":"INFO","msg":"handler: closed","stream_id":"duminnxr"}
+{"time":"2026-01-28T13:40:40.979214559Z","level":"INFO","msg":"sender: closed","stream_id":"duminnxr"}
+{"time":"2026-01-28T13:40:40.979220138Z","level":"INFO","msg":"stream: closed","id":"duminnxr"}

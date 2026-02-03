@@ -1,0 +1,181 @@
+Initialisiere Dataset Pipeline...
+Kompiliere (Warmup)...
+✅ Compilation finished in 24.7765s
+
+Starte Training...
+Ep 1 | Step 0/390 | Loss: 3.6681 | 48200.0 img/s
+Ep 1 | Step 50/390 | Loss: 1.6610 | 2590.8 img/s
+Ep 1 | Step 100/390 | Loss: 1.7720 | 2578.2 img/s
+Ep 1 | Step 150/390 | Loss: 1.5860 | 2578.6 img/s
+Ep 1 | Step 200/390 | Loss: 1.3673 | 2535.0 img/s
+Ep 1 | Step 250/390 | Loss: 1.3923 | 2387.2 img/s
+Ep 1 | Step 300/390 | Loss: 1.3600 | 2573.9 img/s
+Ep 1 | Step 350/390 | Loss: 1.2700 | 2584.4 img/s
+ >> Epoch 1 fertig in 19.52s
+Ep 2 | Step 10/390 | Loss: 1.2702 | 9280.0 img/s
+Ep 2 | Step 60/390 | Loss: 1.0744 | 2590.1 img/s
+Ep 2 | Step 110/390 | Loss: 0.9029 | 2582.7 img/s
+Ep 2 | Step 160/390 | Loss: 0.9455 | 2585.4 img/s
+Ep 2 | Step 210/390 | Loss: 0.9515 | 2585.5 img/s
+Ep 2 | Step 260/390 | Loss: 0.9292 | 2586.9 img/s
+Ep 2 | Step 310/390 | Loss: 0.8556 | 2563.3 img/s
+Ep 2 | Step 360/390 | Loss: 0.8275 | 2570.2 img/s
+ >> Epoch 2 fertig in 19.66s
+Ep 3 | Step 20/390 | Loss: 0.7708 | 6841.7 img/s
+Ep 3 | Step 70/390 | Loss: 0.7985 | 2345.2 img/s
+Ep 3 | Step 120/390 | Loss: 0.7573 | 2584.6 img/s
+Ep 3 | Step 170/390 | Loss: 0.6866 | 2579.7 img/s
+Ep 3 | Step 220/390 | Loss: 0.8840 | 2581.9 img/s
+Ep 3 | Step 270/390 | Loss: 0.5682 | 2581.8 img/s
+Ep 3 | Step 320/390 | Loss: 0.6259 | 2556.9 img/s
+Ep 3 | Step 370/390 | Loss: 0.4879 | 2548.3 img/s
+ >> Epoch 3 fertig in 19.53s
+Ep 4 | Step 30/390 | Loss: 0.5709 | 4075.0 img/s
+Ep 4 | Step 80/390 | Loss: 0.4951 | 2575.0 img/s
+Ep 4 | Step 130/390 | Loss: 0.6324 | 2573.7 img/s
+Ep 4 | Step 180/390 | Loss: 0.4715 | 2572.2 img/s
+Ep 4 | Step 230/390 | Loss: 0.6715 | 2551.3 img/s
+Ep 4 | Step 280/390 | Loss: 0.6063 | 2377.4 img/s
+Ep 4 | Step 330/390 | Loss: 0.5158 | 2564.0 img/s
+Ep 4 | Step 380/390 | Loss: 0.4309 | 2561.9 img/s
+ >> Epoch 4 fertig in 19.57s
+Ep 5 | Step 40/390 | Loss: 0.5779 | 2983.0 img/s
+Ep 5 | Step 90/390 | Loss: 0.4127 | 2570.8 img/s
+Ep 5 | Step 140/390 | Loss: 0.5929 | 2570.2 img/s
+Ep 5 | Step 190/390 | Loss: 0.3631 | 2570.7 img/s
+Ep 5 | Step 240/390 | Loss: 0.3262 | 2572.5 img/s
+Ep 5 | Step 290/390 | Loss: 0.4807 | 2585.2 img/s
+Ep 5 | Step 340/390 | Loss: 0.4071 | 2576.4 img/s
+ >> Epoch 5 fertig in 19.43s
+Ep 6 | Step 0/390 | Loss: 0.2683 | 61904.1 img/s
+Ep 6 | Step 50/390 | Loss: 0.2627 | 2583.7 img/s
+Ep 6 | Step 100/390 | Loss: 0.3095 | 2401.1 img/s
+Ep 6 | Step 150/390 | Loss: 0.2329 | 2586.4 img/s
+Ep 6 | Step 200/390 | Loss: 0.2614 | 2585.4 img/s
+Ep 6 | Step 250/390 | Loss: 0.3096 | 2579.8 img/s
+Ep 6 | Step 300/390 | Loss: 0.3855 | 2575.1 img/s
+Ep 6 | Step 350/390 | Loss: 0.3175 | 2574.0 img/s
+ >> Epoch 6 fertig in 19.62s
+Ep 7 | Step 10/390 | Loss: 0.2563 | 12434.0 img/s
+Ep 7 | Step 60/390 | Loss: 0.2583 | 2583.8 img/s
+Ep 7 | Step 110/390 | Loss: 0.4802 | 2586.8 img/s
+Ep 7 | Step 160/390 | Loss: 0.4315 | 2588.1 img/s
+Ep 7 | Step 210/390 | Loss: 0.3339 | 2586.0 img/s
+Ep 7 | Step 260/390 | Loss: 0.2780 | 2583.4 img/s
+Ep 7 | Step 310/390 | Loss: 0.2657 | 2355.9 img/s
+Ep 7 | Step 360/390 | Loss: 0.2677 | 2564.9 img/s
+ >> Epoch 7 fertig in 19.46s
+Ep 8 | Step 20/390 | Loss: 0.1747 | 5739.8 img/s
+Ep 8 | Step 70/390 | Loss: 0.1947 | 2579.0 img/s
+Ep 8 | Step 120/390 | Loss: 0.2325 | 2585.0 img/s
+Ep 8 | Step 170/390 | Loss: 0.2899 | 2585.1 img/s
+Ep 8 | Step 220/390 | Loss: 0.2671 | 2587.8 img/s
+Ep 8 | Step 270/390 | Loss: 0.2638 | 2576.4 img/s
+Ep 8 | Step 320/390 | Loss: 0.1557 | 2581.9 img/s
+Ep 8 | Step 370/390 | Loss: 0.1474 | 2586.6 img/s
+ >> Epoch 8 fertig in 19.39s
+Ep 9 | Step 30/390 | Loss: 0.1908 | 4147.9 img/s
+Ep 9 | Step 80/390 | Loss: 0.1846 | 2580.8 img/s
+Ep 9 | Step 130/390 | Loss: 0.1302 | 2379.2 img/s
+Ep 9 | Step 180/390 | Loss: 0.1629 | 2586.6 img/s
+Ep 9 | Step 230/390 | Loss: 0.1638 | 2584.6 img/s
+Ep 9 | Step 280/390 | Loss: 0.0942 | 2589.2 img/s
+Ep 9 | Step 330/390 | Loss: 0.1757 | 2584.3 img/s
+Ep 9 | Step 380/390 | Loss: 0.1581 | 2585.5 img/s
+ >> Epoch 9 fertig in 19.43s
+Ep 10 | Step 40/390 | Loss: 0.1323 | 3006.1 img/s
+Ep 10 | Step 90/390 | Loss: 0.1812 | 2556.4 img/s
+Ep 10 | Step 140/390 | Loss: 0.2226 | 2553.8 img/s
+Ep 10 | Step 190/390 | Loss: 0.1411 | 2587.1 img/s
+Ep 10 | Step 240/390 | Loss: 0.1412 | 2575.8 img/s
+Ep 10 | Step 290/390 | Loss: 0.0587 | 2581.5 img/s
+Ep 10 | Step 340/390 | Loss: 0.1057 | 2406.1 img/s
+ >> Epoch 10 fertig in 19.62s
+Ep 11 | Step 0/390 | Loss: 0.1376 | 73356.4 img/s
+Ep 11 | Step 50/390 | Loss: 0.1081 | 2583.4 img/s
+Ep 11 | Step 100/390 | Loss: 0.1586 | 2576.9 img/s
+Ep 11 | Step 150/390 | Loss: 0.0862 | 2577.9 img/s
+Ep 11 | Step 200/390 | Loss: 0.1667 | 2573.4 img/s
+Ep 11 | Step 250/390 | Loss: 0.3065 | 2575.6 img/s
+Ep 11 | Step 300/390 | Loss: 0.1378 | 2567.8 img/s
+Ep 11 | Step 350/390 | Loss: 0.2602 | 2577.9 img/s
+ >> Epoch 11 fertig in 19.43s
+Ep 12 | Step 10/390 | Loss: 0.2037 | 12062.3 img/s
+Ep 12 | Step 60/390 | Loss: 0.0925 | 2575.7 img/s
+Ep 12 | Step 110/390 | Loss: 0.0466 | 2538.7 img/s
+Ep 12 | Step 160/390 | Loss: 0.0840 | 2391.9 img/s
+Ep 12 | Step 210/390 | Loss: 0.0711 | 2551.2 img/s
+Ep 12 | Step 260/390 | Loss: 0.1009 | 2568.2 img/s
+Ep 12 | Step 310/390 | Loss: 0.0811 | 2571.2 img/s
+Ep 12 | Step 360/390 | Loss: 0.0756 | 2579.4 img/s
+ >> Epoch 12 fertig in 19.55s
+Ep 13 | Step 20/390 | Loss: 0.1121 | 5700.6 img/s
+Ep 13 | Step 70/390 | Loss: 0.0334 | 2560.4 img/s
+Ep 13 | Step 120/390 | Loss: 0.0691 | 2577.4 img/s
+Ep 13 | Step 170/390 | Loss: 0.1635 | 2574.6 img/s
+Ep 13 | Step 220/390 | Loss: 0.1009 | 2572.5 img/s
+Ep 13 | Step 270/390 | Loss: 0.1053 | 2581.7 img/s
+Ep 13 | Step 320/390 | Loss: 0.1212 | 2579.6 img/s
+Ep 13 | Step 370/390 | Loss: 0.1133 | 2395.9 img/s
+ >> Epoch 13 fertig in 19.48s
+Ep 14 | Step 30/390 | Loss: 0.0908 | 3750.9 img/s
+Ep 14 | Step 80/390 | Loss: 0.0795 | 2587.9 img/s
+Ep 14 | Step 130/390 | Loss: 0.1129 | 2585.7 img/s
+Ep 14 | Step 180/390 | Loss: 0.0430 | 2585.2 img/s
+Ep 14 | Step 230/390 | Loss: 0.0304 | 2586.6 img/s
+Ep 14 | Step 280/390 | Loss: 0.1128 | 2587.0 img/s
+Ep 14 | Step 330/390 | Loss: 0.0840 | 2584.1 img/s
+Ep 14 | Step 380/390 | Loss: 0.0806 | 2544.6 img/s
+ >> Epoch 14 fertig in 19.59s
+Ep 15 | Step 40/390 | Loss: 0.1676 | 3273.5 img/s
+Ep 15 | Step 90/390 | Loss: 0.1203 | 2580.1 img/s
+Ep 15 | Step 140/390 | Loss: 0.1698 | 2554.8 img/s
+Ep 15 | Step 190/390 | Loss: 0.0048 | 2405.5 img/s
+Ep 15 | Step 240/390 | Loss: 0.4028 | 2591.3 img/s
+Ep 15 | Step 290/390 | Loss: 0.3697 | 2590.9 img/s
+Ep 15 | Step 340/390 | Loss: 0.1572 | 2592.2 img/s
+ >> Epoch 15 fertig in 19.38s
+Ep 16 | Step 0/390 | Loss: 0.0583 | 61891.8 img/s
+Ep 16 | Step 50/390 | Loss: 0.0854 | 2590.3 img/s
+Ep 16 | Step 100/390 | Loss: 0.0440 | 2593.2 img/s
+Ep 16 | Step 150/390 | Loss: 0.0515 | 2591.5 img/s
+Ep 16 | Step 200/390 | Loss: 0.0323 | 2591.6 img/s
+Ep 16 | Step 250/390 | Loss: 0.0176 | 2590.4 img/s
+Ep 16 | Step 300/390 | Loss: 0.0334 | 2591.5 img/s
+Ep 16 | Step 350/390 | Loss: 0.1119 | 2591.9 img/s
+ >> Epoch 16 fertig in 19.37s
+Ep 17 | Step 10/390 | Loss: 0.0305 | 9269.1 img/s
+Ep 17 | Step 60/390 | Loss: 0.0555 | 2583.2 img/s
+Ep 17 | Step 110/390 | Loss: 0.0292 | 2586.1 img/s
+Ep 17 | Step 160/390 | Loss: 0.0153 | 2581.3 img/s
+Ep 17 | Step 210/390 | Loss: 0.0227 | 2583.0 img/s
+Ep 17 | Step 260/390 | Loss: 0.0657 | 2584.1 img/s
+Ep 17 | Step 310/390 | Loss: 0.0181 | 2583.2 img/s
+Ep 17 | Step 360/390 | Loss: 0.0127 | 2579.7 img/s
+ >> Epoch 17 fertig in 19.39s
+Ep 18 | Step 20/390 | Loss: 0.0144 | 5731.3 img/s
+Ep 18 | Step 70/390 | Loss: 0.1061 | 2582.6 img/s
+Ep 18 | Step 120/390 | Loss: 0.0371 | 2582.4 img/s
+Ep 18 | Step 170/390 | Loss: 0.0314 | 2580.5 img/s
+Ep 18 | Step 220/390 | Loss: 0.0918 | 2398.1 img/s
+Ep 18 | Step 270/390 | Loss: 0.0464 | 2585.1 img/s
+Ep 18 | Step 320/390 | Loss: 0.0295 | 2582.8 img/s
+Ep 18 | Step 370/390 | Loss: 0.3496 | 2586.0 img/s
+ >> Epoch 18 fertig in 19.60s
+Ep 19 | Step 30/390 | Loss: 0.0645 | 4188.5 img/s
+Ep 19 | Step 80/390 | Loss: 0.1225 | 2589.2 img/s
+Ep 19 | Step 130/390 | Loss: 0.0781 | 2587.2 img/s
+Ep 19 | Step 180/390 | Loss: 0.0868 | 2583.5 img/s
+Ep 19 | Step 230/390 | Loss: 0.1164 | 2586.6 img/s
+Ep 19 | Step 280/390 | Loss: 0.0745 | 2582.6 img/s
+Ep 19 | Step 330/390 | Loss: 0.0557 | 2583.7 img/s
+Ep 19 | Step 380/390 | Loss: 0.0947 | 2583.5 img/s
+ >> Epoch 19 fertig in 19.39s
+Ep 20 | Step 40/390 | Loss: 0.0267 | 3004.4 img/s
+Ep 20 | Step 90/390 | Loss: 0.0196 | 2581.2 img/s
+Ep 20 | Step 140/390 | Loss: 0.0314 | 2585.9 img/s
+Ep 20 | Step 190/390 | Loss: 0.0602 | 2582.7 img/s
+Ep 20 | Step 240/390 | Loss: 0.0045 | 2586.5 img/s
+Ep 20 | Step 290/390 | Loss: 0.0121 | 2587.6 img/s
+Ep 20 | Step 340/390 | Loss: 0.0708 | 2589.1 img/s
+ >> Epoch 20 fertig in 19.35s

@@ -1,0 +1,1 @@
+{"perf/imgs_per_sec":2589.112503105753,"_runtime":421.853273722,"_wandb":{"runtime":421},"gpu/mem_allocated_mb":318.539306640625,"train/grad_norm":0.8880144357681274,"train/loss":0.0707840844988823,"gpu/mem_peak_mb":3714.284423828125,"_step":7750,"_timestamp":1.7696076374376082e+09,"epoch":20}
